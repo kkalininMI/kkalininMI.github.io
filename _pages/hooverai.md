@@ -8,8 +8,12 @@ author_profile: true
 
 ![image tooltip here](/files/ai_image.jpg)
 
-The goal of initiative use AI in order to enhance Hoover Institution's mission, support its critical scholarship, and assist the daily operations of the Hoover Library & Archives. With Hoover AI<sup>2</sup>, the Institution can bridge the gap between artificial intelligence research in public policy and hands-on artificial intelligence projects implemented by Stanford's engineering talents. 
+In 2020, I launched <i>Hoover AI<sup>2</sup></i> (<i>Hoover Applied Artificial Intelligence Initiative</i>) with support from a Hoover Institution's group of senior fellows and the Hoover Instituion Library and Archives.  The Initiative motivated me to learn more AI by auditing a wide range of courses on artificial intelligence (machine learning, natural language processing and convolutional neaural networks) at the Stanford's School of Engineering, Department of Economics and Department of Political Science. I tried to establish stronger bonds between Stanford's faculty, students and the Hoover Institution by initiating various projects related to AI and VR/AR technologies. 
 
+The primary goal of <i>Hoover AI<sup>2</sup></i> was to use AI in order to enhance Hoover Institution's mission, support its critical scholarship, and assist the daily operations of the Hoover Library & Archives. I strongly believe that with the projects like this, the Institution and other think tanks can bridge the growing gap between artificial intelligence research in public policy and hands-on artificial intelligence projects by engineering talents.
+
+List of Projects
+------
 
 **Data processing software**<br>
 Goal: Assistance with a variety of data processing tasks to help standardize and accelerate metadata processing and record keeping.<br>

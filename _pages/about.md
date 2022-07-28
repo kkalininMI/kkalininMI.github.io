@@ -14,7 +14,7 @@ I have worked at Stanford University's Hoover Institution since 2017 in various 
 
 My research in political science has been published in  *Political Studies*, *Journal of Elections*, *Public Opinion and Parties*,  *British Journal of Politics and International Relations*, *Russian Politics* and *Electoral Politics*.  I have authored and co-authored several [statistical packages](https://github.com/kkalininMI) and co-created [Election Forensics Toolkit](https://electionforensics.cps.isr.umich.edu/about) web application, providing useful accuracy diagnostics for detection and measurement of election fraud. I am also one of the co-organizers of the [Survey of Russian Elites](https://www.icpsr.umich.edu/web/ICPSR/studies/3724). My research has been featured in various [media](/media) outlets.
 
-I can be reached at kirill.kalinin [at] gmail [dot] comcom. You can find my CV [here](/cv).
+I can be reached at kirill.kalinin [at] gmail [dot] com. You can find my CV [here](/cv).
 
 Selected Publications
 ======

@@ -5,20 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-Kalinin, Kirill (2022). [Signaling Games of Election Fraud: A Case of Russia]("https://brill.com/view/journals/rupo/7/2/article-p210_3.xml"). <i>Russian Politics</i>.
+Kalinin, Kirill (2022). [Signaling Games of Election Fraud: A Case of Russia](https://brill.com/view/journals/rupo/7/2/article-p210_3.xml). <i>Russian Politics</i>. [(pdf)](/files/article_signaling.pdf)
 
 Buzin, Andrei, Nikolai Grishin, Kirill Kalinin, Dmitry Kogan, Yurii Korgunyuk, Valentin Mikhailov, Boris Ovchinnikov, Nikita Shalaev, Alexander Shen, Sergey Shpilkin and Ivan Shukshin. (2020). [Using Mathematical Methods for Electoral Fraud Detection](http://electoralpolitics.org/en/articles/vozmozhnosti-matematicheskikh-metodov-po-vyiavleniiu-elektoralnykh-falsifikatsii/). <i>Electoral Politics</i>.
 
 Kalinin, Kirill (2019). [Validation of the Finite Mixture Model Using Quasi-Experimental Data and Geography](http://electoralpolitics.org/en/articles/validatsiia-konechnoi-smeshannoi-modeli-s-ispolzovaniem-kvazieksperimentalnykh-i-geograficheskikh-dannykh/). <i>Electoral Politics</i>.
 
-Kalinin, Kirill (2019). [Russian Elites and Dugin's Neo-Eurasianism: Empirical Analysis of 2012 and 2016](https://par.nsf.gov/servlets/purl/10199694). <i>Post-Soviet Affairs</i>.
+Kalinin, Kirill (2019). [Russian Elites and Dugin's Neo-Eurasianism: Empirical Analysis of 2012 and 2016](https://par.nsf.gov/servlets/purl/10199694). <i>Post-Soviet Affairs</i>. [(pdf)](/files/article_neo-eurasianism.pdf)
 
-Golosov, Grigorii and Kirill Kalinin (2017). [Presidentialism and Legislative Fragmentation Beyond Coattail Effects](https://journals.sagepub.com/doi/abs/10.1177/1369148116682654). <i>British Journal of Politics and International Relations</i>.
+Golosov, Grigorii and Kirill Kalinin (2017). [Presidentialism and Legislative Fragmentation Beyond Coattail Effects](https://journals.sagepub.com/doi/abs/10.1177/1369148116682654). <i>British Journal of Politics and International Relations</i>. [(pdf)](/files/article_coattail_effects.pdf)
 
-Kalinin, Kirill (2017). [Linking Preference Falsification and Election Fraud In Electoral Autocracies](http://journals.sagepub.com/doi/abs/10.1177/0032321717706013).  <i>Political Studies</i>. 
+Kalinin, Kirill (2017). [Linking Preference Falsification and Election Fraud In Electoral Autocracies](http://journals.sagepub.com/doi/abs/10.1177/0032321717706013). <i>Political Studies</i>. [(pdf)](/files/article_preference_falsification.pdf)
 
-Kalinin, Kirill (2016). [A Study of Social Desirability Bias at the Russian Presidential Elections 2012](http://www.tandfonline.com/doi/abs/10.1080/17457289.2016.1150284).  <i>Journal of  Elections, Public Opinion and Parties</i>.
+Kalinin, Kirill (2016). [A Study of Social Desirability Bias at the Russian Presidential Elections 2012](http://www.tandfonline.com/doi/abs/10.1080/17457289.2016.1150284). <i>Journal of  Elections, Public Opinion and Parties</i>. [(pdf)](/files/article_social_desirability.pdf)
+
 
 Technical Manuals and Guides
 ------

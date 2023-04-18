@@ -14,7 +14,9 @@ Book Project
 Working Papers
 ======
 
-Kalinin, Kirill (2022). [Generation of Synthetic Responses to Survey Questions Using GPT-3: A Case of Hard-to-Reach Members of Russian Elites (based on the Survey of Russian Elites)](https://github.com/kkalininMI/GPT3-Surveys). *Not Available*.
+Kalinin, Kirill (2023). [Geopolitical Forecasting Analysis of the Russia-Ukraine War Using the Expert's Survey, Predictioneer's Game and GPT-3](/files/paper_forecasting.pdf). *MPSA, Chicago*.
+
+Kalinin, Kirill (2023). [Generation of Synthetic Responses to Survey Questions Using GPT-3: A Case of Hard-to-Reach Members of Russian Elites (based on the Survey of Russian Elites)](/files/paper_gpt3.pdf). *MPSA, Chicago*.
 
 Kalinin, Kirill (2022). [An Empirical Comparison of Parametric and Nonparametric Methods Applied to the Measurement of Election Fraud](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4073770). *MPSA, Chicago*.
 
@@ -41,8 +43,6 @@ Research in Progress
 "Election Fraud and Agent-Based Modeling"
 
 "Contemporary Russian Politics Through the Prism of Selectorate Theory"
-
-"Predicting Russian Foreign Policy with the Predictioneer's Game and GPT-3"
 
 "Election Fraud and Political Protests in Russia"
 

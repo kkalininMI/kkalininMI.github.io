@@ -18,7 +18,7 @@ I can be reached at kirill.kalinin [at] gmail [dot] com. You can find my CV [her
 
 Selected Publications
 ======
-Kalinin, Kirill (2022). [Signaling Games of Election Fraud: A Case of Russia]("https://brill.com/view/journals/rupo/7/2/article-p210_3.xml"). *Russian Politics*.
+Kalinin, Kirill (2022). [Signaling Games of Election Fraud: A Case of Russia](https://brill.com/view/journals/rupo/7/2/article-p210_3.xml). *Russian Politics*.
 
 Kalinin, Kirill (2019). [Russian Elites and Dugin's Neo-Eurasianism: Empirical Analysis of 2012 and 2016](https://par.nsf.gov/servlets/purl/10199694). *Post-Soviet Affairs*.
 
@@ -31,6 +31,8 @@ Kalinin, Kirill (2016). [A Study of Social Desirability Bias at the Russian Pres
 Selected Working Papers
 ======
 
-Kalinin, Kirill (2022). [Generation of Synthetic Responses to Survey Questions Using GPT-3: A Case of Hard-to-Reach Members of Russian Elites (based on the Survey of Russian Elites)](https://github.com/kkalininMI/GPT3-Surveys). *Not Available*.
+Kalinin, Kirill (2023). [Geopolitical Forecasting Analysis of the Russia-Ukraine War Using the Expert's Survey, Predictioneer's Game and GPT-3](/files/paper_forecasting.pdf). *MPSA, Chicago*.
+
+Kalinin, Kirill (2023). [Generation of Synthetic Responses to Survey Questions Using GPT-3: A Case of Hard-to-Reach Members of Russian Elites (based on the Survey of Russian Elites)](/files/paper_gpt3.pdf). *MPSA, Chicago*.
 
 Kalinin, Kirill (2022). [An Empirical Comparison of Parametric and Nonparametric Methods Applied to the Measurement of Election Fraud](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4073770). *MPSA, Chicago*.

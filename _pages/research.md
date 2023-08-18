@@ -14,7 +14,9 @@ Book Project
 Working Papers
 ======
 
-Kalinin, Kirill (2023). [Geopolitical Forecasting Analysis of the Russia-Ukraine War Using the Expert's Survey, Predictioneer's Game and GPT-3](/files/paper_forecasting.pdf). *MPSA, Chicago*.
+Kalinin, Kirill (2023). [Improving GPT Generated Synthetic Samples with Sampling-Permutation Algorithm](/files/paper_gpt3_polmeth.pdf). *PolMeth, Stanford*.
+
+Kalinin, Kirill (2023). [Geopolitical Forecasting Analysis of the Russia-Ukraine War Using the Expert's Survey, Predictioneer's Game and GPT-3](/files/paper_forecasting.pdf). *MPSA, Chicago*, *APSA, Los Angeles*.
 
 Kalinin, Kirill (2023). [Generation of Synthetic Responses to Survey Questions Using GPT-3: A Case of Hard-to-Reach Members of Russian Elites (based on the Survey of Russian Elites)](/files/paper_gpt3.pdf). *MPSA, Chicago*.
 
@@ -38,6 +40,10 @@ Mebane, Walter R. Jr. and Kirill Kalinin (2009). [Comparative Election Fraud Det
 Research in Progress
 ------
 
+"Measuring Human Curiosity with LLM" (with *Valentin Bolotnyy*)
+
+"Effects of the Exclusiveness of National Identity on the Level of Democracy in the 20th Century Post-Colonial States" (with *Maya Tudor*)
+
 "Machine Learning in Election Forensics Research"
 
 "Election Fraud and Agent-Based Modeling"
@@ -46,4 +52,4 @@ Research in Progress
 
 "Election Fraud and Political Protests in Russia"
 
-"Precinct-level Database of Election Fraud (2000-2020)"
+"Precinct-level Database of Election Fraud in Russia (2000-2020)"

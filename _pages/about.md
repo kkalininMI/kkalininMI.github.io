@@ -24,12 +24,11 @@ Kalinin, Kirill (2019). [Russian Elites and Dugin's Neo-Eurasianism: Empirical A
 
 Golosov, Grigorii and Kirill Kalinin (2017). [Presidentialism and Legislative Fragmentation Beyond Coattail Effects](https://journals.sagepub.com/doi/abs/10.1177/1369148116682654). *British Journal of Politics and International Relations*.
 
-Kalinin, Kirill (2017). [Linking Preference Falsification and Election Fraud In Electoral Autocracies](http://journals.sagepub.com/doi/abs/10.1177/0032321717706013).  *Political Studies*. 
-
 Kalinin, Kirill (2016). [A Study of Social Desirability Bias at the Russian Presidential Elections 2012](http://www.tandfonline.com/doi/abs/10.1080/17457289.2016.1150284). *Journal of  Elections, Public Opinion and Parties*.
 
 Selected Working Papers
 ======
+Kalinin, Kirill (2023). [Improving GPT Generated Synthetic Samples with Sampling-Permutation Algorithm](/files/paper_gpt3_polmeth.pdf). *PolMeth, Stanford*.
 
 Kalinin, Kirill (2023). [Geopolitical Forecasting Analysis of the Russia-Ukraine War Using the Expert's Survey, Predictioneer's Game and GPT-3](/files/paper_forecasting.pdf). *MPSA, Chicago*.
 

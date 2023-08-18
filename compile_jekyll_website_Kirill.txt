@@ -1,0 +1,2 @@
+don't forget to change "website's directory in _config", i.e. kirillkalinin.com or kkalininMI.github.io
+bundle exec jekyll build

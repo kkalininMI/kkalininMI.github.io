@@ -8,6 +8,10 @@ author_profile: true
 Packages
 ---
 
+[Interactions](https://github.com/kkalininMI/Interactions)
+------
+The package written in *R* facilitates estimation and visualization of marginal effects in complex scenarios by directly utilizing the variance-covariance matrix, rather than relying on the model object.
+
 [EFToolkit](https://github.com/kkalininMI/EFToolkit)
 ------
 The package written in *R* implements analysis of election fraud based on various election forensics methods.

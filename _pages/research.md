@@ -14,6 +14,10 @@ Book Project
 Working Papers
 ======
 
+Kalinin, Kirill (2024). [Binary Neural Network Classifier in Election Forensics: A Russian Case Study](/files/apsa2024_kalinin.pdf). *APSA, Philadelphia*.
+
+Kalinin, Kirill (2024). [Applying Machine Learning to Election Forensics Research: A Case of Russia](/files/polmeth2024_Kalinin.pdf). *PolMeth, Riverside*.
+
 Kalinin, Kirill (2023). [Improving GPT Generated Synthetic Samples with Sampling-Permutation Algorithm](/files/paper_gpt3_polmeth.pdf). *PolMeth, Stanford*.
 
 Kalinin, Kirill (2023). [Geopolitical Forecasting Analysis of the Russia-Ukraine War Using the Expert's Survey, Predictioneer's Game and GPT-3](/files/paper_forecasting.pdf). *MPSA, Chicago*, *APSA, Los Angeles*.
@@ -40,7 +44,7 @@ Mebane, Walter R. Jr. and Kirill Kalinin (2009). [Comparative Election Fraud Det
 Research in Progress
 ------
 
-"Measuring Human Curiosity with LLM" (with *Valentin Bolotnyy*)
+"Measuring Human Curiosity with LLMs" (with *Valentin Bolotnyy*)
 
 "Effects of the Exclusiveness of National Identity on the Level of Democracy in the 20th Century Post-Colonial States" (with *Maya Tudor*)
 

@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a political methodologist and comparativist with expertise in statistical analysis, [artificial intelligence](/hooverai), election forensics, survey methodology and statistical software development.  
+I am a political methodologist and comparativist with expertise in statistical analysis, machine learning, [artificial intelligence](/hooverai), election forensics, survey methodology and statistical software development.  
 
 I have worked at Stanford University's Hoover Institution since 2017 in various positions as a [National Fellow](http://www.hoover.org/profiles/kirill-kalinin), Researcher and Data Analyst.  Before coming to Stanford, I studied and worked at the University of Michigan, where I received my PhD in political science in 2017.
 
 My research in political science has been published in  *Political Studies*, *Journal of Elections*, *Public Opinion and Parties*,  *British Journal of Politics and International Relations*, *Russian Politics* and *Electoral Politics*.  I have authored and co-authored several [statistical packages](https://github.com/kkalininMI) and co-created [Election Forensics Toolkit](https://electionforensics.cps.isr.umich.edu/about) web application, providing useful accuracy diagnostics for detection and measurement of election fraud. I am also one of the co-organizers of the [Survey of Russian Elites](https://www.icpsr.umich.edu/web/ICPSR/studies/3724). My research has been featured in various [media](/media) outlets.
 
 I can be reached at kirill.kalinin [at] gmail [dot] com. You can find my CV [here](/cv).
+
 
 Selected Publications
 ======
@@ -28,6 +29,8 @@ Kalinin, Kirill (2016). [A Study of Social Desirability Bias at the Russian Pres
 
 Selected Working Papers
 ======
+Kalinin, Kirill (2024). [Binary Neural Network Classifier in Election Forensics: A Russian Case Study](/files/apsa2024_kalinin.pdf). *APSA, Philadelphia*.
+
 Kalinin, Kirill (2023). [Improving GPT Generated Synthetic Samples with Sampling-Permutation Algorithm](/files/paper_gpt3_polmeth.pdf). *PolMeth, Stanford*.
 
 Kalinin, Kirill (2023). [Geopolitical Forecasting Analysis of the Russia-Ukraine War Using the Expert's Survey, Predictioneer's Game and GPT-3](/files/paper_forecasting.pdf). *MPSA, Chicago*.

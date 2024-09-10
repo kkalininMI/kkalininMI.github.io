@@ -6,7 +6,13 @@ author_profile: true
 ---
 
 Packages
+
+
 ---
+
+[NeuralNets4ElectionForensics](https://github.com/kkalininMI/Interactions)
+------
+This repository contains *Python* scripts for the development of machine learning tools and models aimed at improving the accuracy and effectiveness of election forensics analysis.
 
 [Interactions](https://github.com/kkalininMI/Interactions)
 ------
